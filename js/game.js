@@ -76,7 +76,7 @@ var game = {
                     nextLevel: "evo3",
                 },
                 {
-                    text: "Run in at close range",
+                    text: "Roll in at close range",
                     nextLevel: "hospital",
                 },
             ]
