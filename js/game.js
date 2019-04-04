@@ -1,8 +1,8 @@
 // NOTE - You must have a level with the name "start".  This is used as the first level in the game.
 
 var game = {
-    music: "",
-    background_image: "",
+    music: "start.mp3",
+    background_image: "start.gif",
     levels: {
 
         start: {
